@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tv_bright_box">16sp</dimen>
+    <dimen name="tv_effect_size">16sp</dimen>
+    <dimen name="framesIcMarginTop">8dp</dimen>
+        <dimen name="scale_8dp">12sp</dimen>
+
+    
+</resources>
